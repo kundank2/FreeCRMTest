@@ -33,6 +33,7 @@ public class ContactsPageTest extends TestBase {
 		contactsPage = homePage.clickOnContactsButton();
 
 	}
+	
 
 	@Test(priority = 1)
 	public void verifyContactsLabelTest() {
